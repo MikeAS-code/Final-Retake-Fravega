@@ -1,0 +1,201 @@
+{
+    "data": {
+        "sku": {
+            "code": "23061831",
+            "item": {
+                "sellerConditions": [],
+                "id": "6aaa8ea4d4c79bd25cefdb49",
+                "slug": "escultura-beistle-23 cm-centro-de-mesa-de-tenis-3‑d",
+                "active": true,
+                "type": "Product",
+                "title": "Escultura Beistle 23 cm Centro de Mesa de Tenis 3‑D",
+                "katalogCategoryId": "5a4cfb95160000f7dd178995",
+                "gtin": {
+                    "__typename": "EAN",
+                    "number": "0034689061021"
+                },
+                "brand": {
+                    "id": "6a76043d5cb4f80bec8679fd",
+                    "name": "Beizelte",
+                    "slug": "beizelte",
+                    "image": null,
+                    "__typename": "Brand"
+                },
+                "seoDescription": "Este centro de mesa tridimensional de tenis de Beistle aporta un vibrante tema deportivo a cualquier disposición de mesa. Con una altura de 23,5 cm y un ancho de 22,9 cm, presenta raquetas de tenis cruzadas y una pelota amarilla brillante sobre un fondo de pista de hierba, creando una exhibición llamativa para fiestas temáticas de tenis, banquetes deportivos o celebraciones de torneos.<br/>El material de cartulina impresa, ligero y resistente, permite una fácil instalación y durabilidad, mientras que su diseño autoportante brinda una exhibición estable sin necesidad de soportes adicionales. Ideal para uso decorativo o de novedad por adultos, este versátil centro de mesa añade encanto atlético a mesas de eventos y espacios de celebración.<br/>Características principales:\t- Diseño llamativo con tema deportivo, raquetas cruzadas y pelota amarilla sobre fondo de pista de hierba.<br/>\t- Exhibición autoportante y estable de 23,5 cm de alto por 22,9 cm de ancho.<br/>\t- Material de cartulina impresa, ligero y duradero, fácil de montar.<br/>\t- Uso versátil para fiestas temáticas de tenis, banquetes deportivos, celebraciones de torneos y decoraciones de mesa.<br/>\t- Artículo decorativo de uso general pensado para adultos.<br/>Ficha técnica:\t- Dimensiones: 23,5 cm Al × 22,9 cm An × 2,5 cm Prof.<br/>\t- Material: Cartulina impresa.<br/>\t- Peso: Ligero (peso específico no proporcionado).<br/>\t- Diseño: Raquetas cruzadas con pelota amarilla sobre fondo de pista de hierba.<br/>\t- Uso: Decorativo o de novedad para adultos.<br/>Este centro de mesa de tenis ofrece una solución encantadora y práctica para añadir un toque temático a cualquier evento. Su tamaño compacto y diseño estable lo hacen perfecto para mesas, mientras que los colores vibrantes y el motivo deportivo crean una atmósfera acogedora para los invitados. Ya sea para una celebración de torneo, un banquete deportivo o una fiesta temática, este centro de mesa brinda un atractivo visual duradero y una elegancia funcional.<br/> [PRODUCTO INTERNACIONAL / COMPRA INTERNACIONAL] ¡Atención! Este producto es de origen internacional y está sujeto a los procedimientos y regulaciones aplicables a la importación de bienes para uso personal en el país de destino. El consumidor es responsable de asegurarse de que el producto cumpla con los requisitos locales, certificaciones o autorizaciones necesarias para su uso. Por favor, verifique las leyes y normativas aplicables de las autoridades regulatorias correspondientes en su país antes de completar su compra. <br/>[PRODUCTO INTERNACIONAL / COMPRA INTERNACIONAL]<br/>¡Atención! Este producto es de origen internacional y está sujeto a los procedimientos y regulaciones aplicables a la importación de bienes para uso personal en el país de destino. El consumidor es responsable de asegurarse de que el producto cumpla con los requisitos locales, certificaciones o autorizaciones necesarias para su uso. Por favor, verifique las leyes y normativas aplicables de las autoridades regulatorias correspondientes en su país antes de completar su compra.<br/>",
+                "images": [
+                    "d34e821721a26385e83891e00a2b294b.jpg",
+                    "24201c0db9e9868ffe531760ad276bb8.jpg",
+                    "51ba4697b4f4c139a72f271ee51003c1.jpg"
+                ],
+                "videos": [],
+                "specifications": [
+                    {
+                        "id": "5a301bf1140000720049108b",
+                        "name": "Origen",
+                        "slug": "origen",
+                        "group": {
+                            "id": "5a4cfb9516000002de1789a1",
+                            "name": "Modelo y origen",
+                            "type": "SPECIFICATION",
+                            "__typename": "AttributeGroupType"
+                        },
+                        "type": "SPECIFICATION",
+                        "valueType": "TEXT",
+                        "value": "United States",
+                        "measureUnit": null,
+                        "__typename": "Attribute"
+                    }
+                ],
+                "descriptions": [],
+                "attributes": [
+                    {
+                        "id": "5a301bf11400008700490fa8",
+                        "name": "imagen0",
+                        "slug": "imagen0",
+                        "type": "IMAGE",
+                        "valueType": "IMAGE",
+                        "value": "d34e821721a26385e83891e00a2b294b.jpg",
+                        "measureUnit": null,
+                        "__typename": "Attribute"
+                    },
+                    {
+                        "id": "5a301bf11400007700490faa",
+                        "name": "imagen1",
+                        "slug": "imagen1",
+                        "type": "IMAGE",
+                        "valueType": "IMAGE",
+                        "value": "24201c0db9e9868ffe531760ad276bb8.jpg",
+                        "measureUnit": null,
+                        "__typename": "Attribute"
+                    },
+                    {
+                        "id": "5a301bf11400007700490fa9",
+                        "name": "imagen2",
+                        "slug": "imagen2",
+                        "type": "IMAGE",
+                        "valueType": "IMAGE",
+                        "value": "51ba4697b4f4c139a72f271ee51003c1.jpg",
+                        "measureUnit": null,
+                        "__typename": "Attribute"
+                    },
+                    {
+                        "id": "5a301bf1140000720049108b",
+                        "name": "Origen",
+                        "slug": "origen",
+                        "type": "SPECIFICATION",
+                        "valueType": "TEXT",
+                        "value": "United States",
+                        "measureUnit": null,
+                        "__typename": "Attribute"
+                    }
+                ],
+                "__typename": "Item"
+            },
+            "seller": {
+                "id": "fravegasellerprd173",
+                "commercialName": "nocnoc",
+                "slug": "nocnoc",
+                "__typename": "Seller"
+            },
+            "marketplace": true,
+            "images": [
+                "d34e821721a26385e83891e00a2b294b.jpg",
+                "24201c0db9e9868ffe531760ad276bb8.jpg",
+                "51ba4697b4f4c139a72f271ee51003c1.jpg"
+            ],
+            "enabledChannels": [
+                "fravega-ecommerce"
+            ],
+            "stock": {
+                "labels": [
+                    "FREE_HOME_DELIVERY_IN_MORE_HOURS"
+                ],
+                "availability": true,
+                "pickup": {
+                    "availability": false,
+                    "labels": [],
+                    "locations": [],
+                    "__typename": "StockDelivery"
+                },
+                "homeDelivery": {
+                    "availability": true,
+                    "labels": [
+                        "FREE_HOME_DELIVERY_IN_MORE_HOURS"
+                    ],
+                    "locations": [],
+                    "__typename": "StockDelivery"
+                },
+                "__typename": "StockAvailability"
+            },
+            "geoAvailability": {
+                "labels": [
+                    "FREE_HOME_DELIVERY_IN_MORE_HOURS"
+                ],
+                "availability": true,
+                "pickup": {
+                    "availability": false,
+                    "labels": [],
+                    "locations": [],
+                    "__typename": "StockDelivery"
+                },
+                "homeDelivery": {
+                    "availability": true,
+                    "labels": [
+                        "FREE_HOME_DELIVERY_IN_MORE_HOURS"
+                    ],
+                    "locations": [],
+                    "__typename": "StockDelivery"
+                },
+                "__typename": "StockAvailability"
+            },
+            "categorization": [
+                [
+                    {
+                        "id": "5a4cfb95160000f7dd178995",
+                        "name": "Centros de mesa",
+                        "slug": "hogar/decoracion/centros-de-mesa",
+                        "__typename": "Category"
+                    },
+                    {
+                        "id": "5a301c5d1400008a00493458",
+                        "name": "Decoración",
+                        "slug": "hogar/decoracion",
+                        "__typename": "Category"
+                    },
+                    {
+                        "id": "5a301c5a140000770049334b",
+                        "name": "Hogar",
+                        "slug": "hogar",
+                        "__typename": "Category"
+                    }
+                ]
+            ],
+            "pricing": [
+                {
+                    "channel": "fravega-ecommerce",
+                    "listPrice": 118577,
+                    "salePrice": 118577,
+                    "discount": 0,
+                    "__typename": "Pricing"
+                }
+            ],
+            "netPricing": [
+                {
+                    "channel": "net-price",
+                    "listPrice": 118577,
+                    "salePrice": 118577,
+                    "discount": 0,
+                    "__typename": "Pricing"
+                }
+            ],
+            "cockades": [],
+            "__typename": "Sku"
+        }
+    },
+    "extensions": {
+        "cacheControl": {
+            "version": 1,
+            "hints": []
+        }
+    }
+}
