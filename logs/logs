@@ -1,0 +1,15 @@
+2026-09-23 17:01:43,282 - INFO - peticion URL: https://www.fravega.com/sitemap/index.xml| intento: 1
+2026-09-23 17:01:43,759 - INFO -  obteniendo paginados de productos: https://www.fravega.com/sitemap/fravega.xml
+2026-09-23 17:01:43,759 - INFO -  obteniendo paginados de productos: https://www.fravega.com/sitemap/productos-01.xml
+2026-09-23 17:01:43,759 - INFO -  obteniendo paginados de productos: https://www.fravega.com/sitemap/productos-02.xml
+2026-09-23 17:01:43,759 - INFO -  obteniendo paginados de productos: https://www.fravega.com/sitemap/productos-03.xml
+2026-09-23 17:01:43,759 - INFO - peticion URL: https://www.fravega.com/sitemap/productos-01.xml| intento: 1
+2026-09-23 17:01:44,356 - INFO - peticion URL: https://www.fravega.com/sitemap/productos-02.xml| intento: 1
+2026-09-23 17:01:44,965 - INFO - peticion URL: https://www.fravega.com/sitemap/productos-03.xml| intento: 1
+2026-09-23 17:01:46,010 - INFO - guardando dato - https://www.fravega.com/p/barco-pirata-friends-de-background-seasons-2-1-x-1-5-m-con-cinta-23061821/
+2026-09-23 17:01:46,465 - INFO - guardando dato - https://www.fravega.com/p/caja-de-tarjetas-qiksion-22%E2%80%AFcm-rosa-con-foil-dorado-%E2%80%93-regalo-para-eventos-23061812/
+2026-09-23 17:01:47,120 - INFO - guardando dato - https://www.fravega.com/p/abanicos-de-papel-bestofun-12-unidades-decoracion-arcoiris-colorida-23061862/
+2026-09-23 17:01:47,659 - INFO - guardando dato - https://www.fravega.com/p/confeti-beistle-43%E2%80%AFg-cascos-de-jockey-%E2%80%93-decoracion-para-el-dia-de-la-carrera-23061916/
+2026-09-23 17:01:48,200 - INFO - guardando dato - https://www.fravega.com/p/protector-solar-banana-boat-spf-100-170%E2%80%AFml-en-spray-23061922/
+2026-09-23 17:01:48,796 - INFO - guardando dato - https://www.fravega.com/p/soldador-inverter-mig-flux-mma-130a-220v-tenologia-igbt-verde-23076313/
+2026-09-23 17:01:49,355 - INFO - guardando dato - https://www.fravega.com/p/telon-de-fondo-beistle-122%E2%80%AFcm-x-914%E2%80%AFcm-bosque-pixel-8%E2%80%91bit-23061855/
